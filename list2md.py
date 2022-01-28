@@ -10,7 +10,6 @@ Please update **list.txt** (via Pull Request)
 
 Tips：这是一份关于 markdown 语法转富文本导入到其他文章发布平台的名单，每周一 UTC 时间下午 1 点自动更新 github 状态，如果有新的项目，可以 issues 或者 pr “list.txt” 文件给我。
 
-
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
 '''
@@ -56,7 +55,7 @@ def main():
             else:
                 url=url.split(",")
                 # print("not in github", url)
-                # print("not in github", url[1])
+                # print("not in github", url)
                 data={'name': '{}'.format(url[1]),'url': '{}'.format(url[0]), 'html_url': '{}'.format(url[0]),'stargazers_count': 0, 'forks_count': 0, 'open_issues_count': 0, 'description': '{}'.format(url[2]), 'last_commit_date': '2006-01-02T03:04:05Z'}
                 # 'stargazers_count': 0, 'forks_count': 0, 'open_issues_count': 0, 'description': '',
                 # print(type(data))
