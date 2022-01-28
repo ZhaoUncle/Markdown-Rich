@@ -81,6 +81,8 @@ def save_ranking(repos):
             # print(repo)
             if is_deprecated(repo['url']):
                 repo['description'] = warning + repo['description']
+            if repo['description'] != None:
+                repo['description'] = repo['description'].replace("|", "&&")
             f.write('| [{}]({}) | {} | {} | {} | {} | {} |\n'.format(repo['name'],
                                                                      repo['html_url'],
                                                                      repo['stargazers_count'],
