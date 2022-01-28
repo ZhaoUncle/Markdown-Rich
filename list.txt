@@ -4,4 +4,4 @@ https://github.com/mdnice/markdown-nice
 https://github.com/wechatsync/Wechatsync
 https://github.com/lyricat/wechat-format
 https://github.com/crawlab-team/artipub
-https://openwrite.cn/,openwrite,no github
+https://www.openwrite.cn/,openwrite,no github
