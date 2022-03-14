@@ -6,13 +6,13 @@ Tips：这是一份关于 markdown 语法转富文本导入到其他文章发布
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
-| [markdown-here](https://github.com/adam-p/markdown-here) | 54554 | 10567 | 309 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | 2018-09-30 13:17:46 |
-| [wechat-format](https://github.com/lyricat/wechat-format) | 3816 | 484 | 8 | 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML | 2021-08-24 03:22:49 |
-| [markdown-nice](https://github.com/mdnice/markdown-nice) | 3385 | 529 | 101 | 支持主题设计的 Markdown 编辑器，让排版变 Nice | 2020-11-12 03:20:27 |
-| [artipub](https://github.com/crawlab-team/artipub) | 2719 | 438 | 31 | Article publishing platform that automatically distributes your articles to various media channels | 2021-06-12 15:46:38 |
-| [md](https://github.com/doocs/md) | 2469 | 341 | 9 | ✍ WeChat Markdown Editor && 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 | 2022-02-28 11:09:39 |
-| [Wechatsync](https://github.com/wechatsync/Wechatsync) | 1265 | 188 | 13 | 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力 | 2022-03-03 08:05:38 |
+| [markdown-here](https://github.com/adam-p/markdown-here) | 54623 | 10588 | 310 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | 2018-09-30 13:17:46 |
+| [wechat-format](https://github.com/lyricat/wechat-format) | 3819 | 484 | 8 | 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML | 2021-08-24 03:22:49 |
+| [markdown-nice](https://github.com/mdnice/markdown-nice) | 3396 | 529 | 101 | 支持主题设计的 Markdown 编辑器，让排版变 Nice | 2020-11-12 03:20:27 |
+| [artipub](https://github.com/crawlab-team/artipub) | 2728 | 439 | 31 | Article publishing platform that automatically distributes your articles to various media channels | 2021-06-12 15:46:38 |
+| [md](https://github.com/doocs/md) | 2485 | 344 | 10 | ✍ WeChat Markdown Editor && 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 | 2022-02-28 11:09:39 |
+| [Wechatsync](https://github.com/wechatsync/Wechatsync) | 1294 | 189 | 14 | 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力 | 2022-03-03 08:05:38 |
 | [aclickall.github.io](https://github.com/aclickall/aclickall.github.io) | 8 | 13 | 1 | None | 2020-03-26 02:10:32 |
 | [openwrite](https://www.openwrite.cn/) | 0 | 0 | 0 | no github | 2006-01-02 03:04:05 |
 
-*Last Automatic Update: 2022-03-07T02:07:16*
+*Last Automatic Update: 2022-03-14T02:09:17*
