@@ -6,13 +6,13 @@ Tips：这是一份关于 markdown 语法转富文本导入到其他文章发布
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
-| [markdown-here](https://github.com/adam-p/markdown-here) | 59561 | 11259 | 328 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | 2018-09-30 13:17:46 |
-| [md](https://github.com/doocs/md) | 5080 | 804 | 33 | ✍ WeChat Markdown Editor && 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 | 2024-06-25 06:32:19 |
+| [markdown-here](https://github.com/adam-p/markdown-here) | 59570 | 11262 | 328 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | 2018-09-30 13:17:46 |
+| [md](https://github.com/doocs/md) | 5132 | 815 | 31 | ✍ WeChat Markdown Editor && 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 | 2024-07-04 11:24:56 |
 | [wechat-format](https://github.com/lyricat/wechat-format) | 4285 | 560 | 3 | 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML | 2024-05-30 07:33:37 |
-| [markdown-nice](https://github.com/mdnice/markdown-nice) | 4106 | 645 | 130 | 支持主题设计的 Markdown 编辑器，让排版变 Nice | 2023-08-14 08:29:38 |
-| [Wechatsync](https://github.com/wechatsync/Wechatsync) | 3284 | 495 | 49 | 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力 | 2023-09-05 00:03:46 |
+| [markdown-nice](https://github.com/mdnice/markdown-nice) | 4116 | 647 | 129 | 支持主题设计的 Markdown 编辑器，让排版变 Nice | 2023-08-14 08:29:38 |
+| [Wechatsync](https://github.com/wechatsync/Wechatsync) | 3307 | 498 | 49 | 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力 | 2023-09-05 00:03:46 |
 | [artipub](https://github.com/crawlab-team/artipub) | 3052 | 520 | 40 | Article publishing platform that automatically distributes your articles to various media channels | 2021-06-12 15:46:38 |
 | [aclickall.github.io](https://github.com/aclickall/aclickall.github.io) | 9 | 17 | 1 | None | 2020-03-26 02:10:32 |
 | [openwrite](https://www.openwrite.cn/) | 0 | 0 | 0 | no github | 2006-01-02 03:04:05 |
 
-*Last Automatic Update: 2024-07-01T02:06:20*
+*Last Automatic Update: 2024-07-08T02:00:21*
