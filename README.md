@@ -6,13 +6,13 @@ Tips：这是一份关于 markdown 语法转富文本导入到其他文章发布
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
-| [markdown-here](https://github.com/adam-p/markdown-here) | 59612 | 11273 | 331 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | 2018-09-30 13:17:46 |
-| [md](https://github.com/doocs/md) | 5397 | 859 | 30 | ✍ WeChat Markdown Editor && 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 | 2024-09-08 22:33:46 |
-| [wechat-format](https://github.com/lyricat/wechat-format) | 4313 | 561 | 3 | 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML | 2024-05-30 07:33:37 |
-| [markdown-nice](https://github.com/mdnice/markdown-nice) | 4168 | 664 | 129 | 支持主题设计的 Markdown 编辑器，让排版变 Nice | 2023-08-14 08:29:38 |
-| [Wechatsync](https://github.com/wechatsync/Wechatsync) | 3462 | 521 | 53 | 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力 | 2023-09-05 00:03:46 |
-| [artipub](https://github.com/crawlab-team/artipub) | 3068 | 522 | 40 | Article publishing platform that automatically distributes your articles to various media channels | 2021-06-12 15:46:38 |
-| [aclickall.github.io](https://github.com/aclickall/aclickall.github.io) | 9 | 19 | 1 | None | 2020-03-26 02:10:32 |
+| [markdown-here](https://github.com/adam-p/markdown-here) | 59616 | 11273 | 332 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | 2018-09-30 13:17:46 |
+| [md](https://github.com/doocs/md) | 5421 | 868 | 31 | ✍ WeChat Markdown Editor && 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 | 2024-09-15 16:01:54 |
+| [wechat-format](https://github.com/lyricat/wechat-format) | 4314 | 562 | 3 | 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML | 2024-05-30 07:33:37 |
+| [markdown-nice](https://github.com/mdnice/markdown-nice) | 4169 | 665 | 129 | 支持主题设计的 Markdown 编辑器，让排版变 Nice | 2023-08-14 08:29:38 |
+| [Wechatsync](https://github.com/wechatsync/Wechatsync) | 3480 | 523 | 55 | 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力 | 2023-09-05 00:03:46 |
+| [artipub](https://github.com/crawlab-team/artipub) | 3069 | 522 | 40 | Article publishing platform that automatically distributes your articles to various media channels | 2021-06-12 15:46:38 |
+| [aclickall.github.io](https://github.com/aclickall/aclickall.github.io) | 10 | 19 | 1 | None | 2024-09-09 13:14:15 |
 | [openwrite](https://www.openwrite.cn/) | 0 | 0 | 0 | no github | 2006-01-02 03:04:05 |
 
-*Last Automatic Update: 2024-09-09T02:11:20*
+*Last Automatic Update: 2024-09-16T02:17:23*
